@@ -6,5 +6,4 @@ I mainly work with the .NET platform to create web apps and windows apps, but in
 
 I am currently working on [starting a blog](https://favianflores.com) focused around software development.
 
-I can be reached on [twitter](https://twitter.com/foflores10/) or on
-[linkedin](https://linkedin.com/in/foflores10/)
+I can be reached on [x](https://x.com/foflores10/) or on [linkedin](https://linkedin.com/in/foflores10/)

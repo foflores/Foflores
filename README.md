@@ -1,6 +1,7 @@
 ## Hi, I'm Favian 👋
 
-I am software developer at the Manhattan District Attorney's Office where I mainly work with the .NET platform to 
-create web and desktop applications. 
+I'm software developer at the Manhattan District Attorney's Office where I work with a great team to 
+create web and desktop applications using the .NET platform.
 
-In my free time I like to experiment with other tools and technologies in web, cloud, and devops.
+In my free time I like to experiment with different tools/technologies, learn about personal finance, and sometimes
+I even write about it on my [blog](https://www.favianflores.com).

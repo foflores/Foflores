@@ -1,6 +1,6 @@
 ## Hi, I'm Favian 👋
 
-I'm software developer at the Manhattan District Attorney's Office where I work with a great team to 
+I'm a software developer at the Manhattan District Attorney's Office where I work with a great team to 
 create web and desktop applications using the .NET platform.
 
 In my free time I like to experiment with different tools/technologies, learn about personal finance, and sometimes

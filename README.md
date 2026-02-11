@@ -1,9 +1,6 @@
-## Hey, I'm Favian 👋
+## Hi, I'm Favian 👋
 
-I graduated CUNY Hunter College in August 2021 with a BA in Computer Science and a minor in Economics. I am currently working at the Manhattan DA's Office as a software developer.
+I am software developer at the Manhattan District Attorney's Office where I mainly work with the .NET platform to 
+create web and desktop applications. 
 
-I mainly work with the .NET platform to create web apps and windows apps, but in my free time I like to experiment with other tools and technologies in web, cloud, and devops.
-
-I am currently working on [starting a blog](https://favianflores.com) focused around software development.
-
-I can be reached on [x](https://x.com/foflores10/) or on [linkedin](https://linkedin.com/in/foflores10/)
+In my free time I like to experiment with other tools and technologies in web, cloud, and devops.
